@@ -1,0 +1,577 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Arfa Yapi Sistemleri via Tremco CPG Turkey",
+  "job": "Arfa Yapi apartment blocks, Bayrakli, Izmir - Block A1",
+  "number_prefix": "ES26-085",
+  "status": "QUOTATION",
+  "revision": "Q01",
+  "model_title": "ES26-085 Arfa Yapi apartment blocks, Bayrakli, Izmir - Block A1 - Quotation Q01"
+ },
+ "default_view": "stage-6",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Footing and garden floor",
+   "desc": "Two courses of Nudura footing forms under every ICF wall, then the garden-floor walls (6 courses): 8in Standard external walls, 6in Standard party, stair and lift walls, the entrance and balcony openings, and the 100 mm block partitions.",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Ground floor",
+   "desc": "Ground-floor ICF (6 courses) with its balcony doors and windows, the stair / lift core and the block partitions.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "First floor",
+   "desc": "First-floor ICF and block partitions - the typical floor.",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "Second floor",
+   "desc": "Second-floor ICF and block partitions.",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Third floor, roof parapet and penthouse",
+   "desc": "Third-floor ICF and partitions, the 2-course ICF parapet round the roof terrace and the stair / lift penthouse.",
+   "focus": false
+  },
+  {
+   "id": "stage-6",
+   "kind": "stage",
+   "n": 6,
+   "title": "Complete block",
+   "desc": "The frame by others for coordination: 20 cm RC floor and roof slabs, balcony slabs with 10 cm RC parapets, the core stair, and the windows and doors fitted tight to the 25 mm ICF overfly.",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 6,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 6,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 6,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 6,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Footing and garden floor",
+   "desc": "Two courses of Nudura footing forms under every ICF wall, then the garden-floor walls (6 courses): 8in Standard external walls, 6in Standard party, stair and lift walls, the entrance and balcony openings, and the 100 mm block partitions.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2276740
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground floor",
+   "desc": "Ground-floor ICF (6 courses) with its balcony doors and windows, the stair / lift core and the block partitions.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1497628
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "First-floor ICF and block partitions - the typical floor.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1532180
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Second floor",
+   "desc": "Second-floor ICF and block partitions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1500252
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Third floor, roof parapet and penthouse",
+   "desc": "Third-floor ICF and partitions, the 2-course ICF parapet round the roof terrace and the stair / lift penthouse.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2512912
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Complete block",
+   "desc": "The frame by others for coordination: 20 cm RC floor and roof slabs, balcony slabs with 10 cm RC parapets, the core stair, and the windows and doors fitted tight to the 25 mm ICF overfly.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 431668
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "quote",
+   "title": "Quotation",
+   "note": "Two estimates: ONE block (Block A1) and ALL 12 identical blocks (12 take-offs, one per block). Haulage (estimated 5-6 x 40 ft containers per block) and the alignment system are TBC. Plus the quantities with concrete, the container load plans and the pallet stack sheets. English and Turkish versions.",
+   "zip": {
+    "file": "downloads/ES26-085 Quotation.zip",
+    "bytes": 5063046,
+    "count": 10
+   },
+   "docs": [
+    {
+     "id": "ES26-085-LP-01",
+     "title": "Container load plans - 6 x 40 ft per block (TR)",
+     "file": "docs/quote/ES26-085-LP-01 Container load plans - 6 x 40 ft per block (TR).pdf",
+     "pages": 6,
+     "thumb": "thumbs/ES26-085-LP-01.png",
+     "bytes": 1240099,
+     "number": "ES26-085-LP-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-LP-01",
+     "title": "Container load plans - 6 x 40 ft per block",
+     "file": "docs/quote/ES26-085-LP-01 Container load plans - 6 x 40 ft per block.pdf",
+     "pages": 6,
+     "thumb": "thumbs/ES26-085-LP-01.png",
+     "bytes": 49577,
+     "number": "ES26-085-LP-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-PR-01",
+     "title": "Quotation Rev C - one block (Block A1) (TR)",
+     "file": "docs/quote/ES26-085-PR-01 Quotation Rev C - one block (Block A1) (TR).pdf",
+     "pages": 5,
+     "thumb": "thumbs/ES26-085-PR-01.png",
+     "bytes": 383483,
+     "number": "ES26-085-PR-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-PR-01",
+     "title": "Quotation Rev C - one block (Block A1)",
+     "file": "docs/quote/ES26-085-PR-01 Quotation Rev C - one block (Block A1).pdf",
+     "pages": 5,
+     "thumb": "thumbs/ES26-085-PR-01.png",
+     "bytes": 375741,
+     "number": "ES26-085-PR-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-PR-02",
+     "title": "Quotation Rev B - all 12 blocks (TR)",
+     "file": "docs/quote/ES26-085-PR-02 Quotation Rev B - all 12 blocks (TR).pdf",
+     "pages": 6,
+     "thumb": "thumbs/ES26-085-PR-02.png",
+     "bytes": 390987,
+     "number": "ES26-085-PR-02",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-PR-02",
+     "title": "Quotation Rev B - all 12 blocks",
+     "file": "docs/quote/ES26-085-PR-02 Quotation Rev B - all 12 blocks.pdf",
+     "pages": 6,
+     "thumb": "thumbs/ES26-085-PR-02.png",
+     "bytes": 382147,
+     "number": "ES26-085-PR-02",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-PS-01",
+     "title": "Pallet stack sheets - 22 pallets per block (TR)",
+     "file": "docs/quote/ES26-085-PS-01 Pallet stack sheets - 22 pallets per block (TR).pdf",
+     "pages": 22,
+     "thumb": "thumbs/ES26-085-PS-01.png",
+     "bytes": 2154942,
+     "number": "ES26-085-PS-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-PS-01",
+     "title": "Pallet stack sheets - 22 pallets per block",
+     "file": "docs/quote/ES26-085-PS-01 Pallet stack sheets - 22 pallets per block.pdf",
+     "pages": 22,
+     "thumb": "thumbs/ES26-085-PS-01.png",
+     "bytes": 619769,
+     "number": "ES26-085-PS-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-QS-01",
+     "title": "Quantities - forms, accessories, concrete (TR)",
+     "file": "docs/quote/ES26-085-QS-01 Quantities - forms, accessories, concrete (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-QS-01.png",
+     "bytes": 76957,
+     "number": "ES26-085-QS-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-QS-01",
+     "title": "Quantities - forms, accessories, concrete",
+     "file": "docs/quote/ES26-085-QS-01 Quantities - forms, accessories, concrete.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-QS-01.png",
+     "bytes": 75597,
+     "number": "ES26-085-QS-01",
+     "view": "stage-6",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "icf",
+   "title": "ICF drawings",
+   "note": "ICF general arrangements for every level, elevations and a section. English and Turkish versions.",
+   "zip": {
+    "file": "downloads/ES26-085 ICF drawings.zip",
+    "bytes": 16158524,
+    "count": 22
+   },
+   "docs": [
+    {
+     "id": "ES26-085-GA-01",
+     "title": "Footing blocks (2 courses) ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-01 Footing blocks (2 courses) ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-01.png",
+     "bytes": 1213791,
+     "number": "ES26-085-GA-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-01",
+     "title": "Footing blocks (2 courses) ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-01 Footing blocks (2 courses) ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-01.png",
+     "bytes": 60093,
+     "number": "ES26-085-GA-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-02",
+     "title": "Bahce (garden) floor ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-02 Bahce (garden) floor ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-02.png",
+     "bytes": 1228099,
+     "number": "ES26-085-GA-02",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-02",
+     "title": "Bahce (garden) floor ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-02 Bahce (garden) floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-02.png",
+     "bytes": 80162,
+     "number": "ES26-085-GA-02",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-03",
+     "title": "Zemin (ground) floor ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-03 Zemin (ground) floor ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-03.png",
+     "bytes": 1231006,
+     "number": "ES26-085-GA-03",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-03",
+     "title": "Zemin (ground) floor ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-03 Zemin (ground) floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-03.png",
+     "bytes": 82792,
+     "number": "ES26-085-GA-03",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-04",
+     "title": "1st floor ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-04 1st floor ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-04.png",
+     "bytes": 1230942,
+     "number": "ES26-085-GA-04",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-04",
+     "title": "1st floor ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-04 1st floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-04.png",
+     "bytes": 82728,
+     "number": "ES26-085-GA-04",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-05",
+     "title": "2nd floor ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-05 2nd floor ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-05.png",
+     "bytes": 1230936,
+     "number": "ES26-085-GA-05",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-05",
+     "title": "2nd floor ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-05 2nd floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-05.png",
+     "bytes": 82721,
+     "number": "ES26-085-GA-05",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-06",
+     "title": "3rd floor ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-06 3rd floor ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-06.png",
+     "bytes": 1230949,
+     "number": "ES26-085-GA-06",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-06",
+     "title": "3rd floor ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-06 3rd floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-06.png",
+     "bytes": 82733,
+     "number": "ES26-085-GA-06",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-07",
+     "title": "Roof parapet ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-07 Roof parapet ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-07.png",
+     "bytes": 1210896,
+     "number": "ES26-085-GA-07",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-07",
+     "title": "Roof parapet ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-07 Roof parapet ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-07.png",
+     "bytes": 55846,
+     "number": "ES26-085-GA-07",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-08",
+     "title": "Stair + lift penthouse ICF General Arrangement (TR)",
+     "file": "docs/icf/ES26-085-GA-08 Stair + lift penthouse ICF General Arrangement (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-08.png",
+     "bytes": 1210370,
+     "number": "ES26-085-GA-08",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-GA-08",
+     "title": "Stair + lift penthouse ICF General Arrangement",
+     "file": "docs/icf/ES26-085-GA-08 Stair + lift penthouse ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-GA-08.png",
+     "bytes": 55638,
+     "number": "ES26-085-GA-08",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-EL-01",
+     "title": "North and South Elevations (TR)",
+     "file": "docs/icf/ES26-085-EL-01 North and South Elevations (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-EL-01.png",
+     "bytes": 1793953,
+     "number": "ES26-085-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-EL-01",
+     "title": "North and South Elevations",
+     "file": "docs/icf/ES26-085-EL-01 North and South Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-EL-01.png",
+     "bytes": 829106,
+     "number": "ES26-085-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-EL-02",
+     "title": "East and West Elevations (TR)",
+     "file": "docs/icf/ES26-085-EL-02 East and West Elevations (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-EL-02.png",
+     "bytes": 1795275,
+     "number": "ES26-085-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-EL-02",
+     "title": "East and West Elevations",
+     "file": "docs/icf/ES26-085-EL-02 East and West Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-EL-02.png",
+     "bytes": 837644,
+     "number": "ES26-085-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-SE-01",
+     "title": "Section A-A (TR)",
+     "file": "docs/icf/ES26-085-SE-01 Section A-A (TR).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-SE-01.png",
+     "bytes": 1299369,
+     "number": "ES26-085-SE-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-085-SE-01",
+     "title": "Section A-A",
+     "file": "docs/icf/ES26-085-SE-01 Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-085-SE-01.png",
+     "bytes": 178936,
+     "number": "ES26-085-SE-01",
+     "view": "stage-6",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": false,
+ "toggles": [],
+ "download_all": {
+  "file": "downloads/ES26-085 Arfa Yapi apartment blocks, Bayrakli, Izmir - Block A1 - Quotation Q01.zip",
+  "bytes": 21221804,
+  "count": 32,
+  "title": "Download everything"
+ }
+}

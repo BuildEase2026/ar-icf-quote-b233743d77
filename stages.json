@@ -1,0 +1,84 @@
+{
+ "job": "Arfa Yapi apartment blocks, Bayrakli, Izmir - Block A1",
+ "revision": "Q01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Footing and garden floor",
+   "desc": "Two courses of Nudura footing forms under every ICF wall, then the garden-floor walls (6 courses): 8in Standard external walls, 6in Standard party, stair and lift walls, the entrance and balcony openings, and the 100 mm block partitions.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2276740
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground floor",
+   "desc": "Ground-floor ICF (6 courses) with its balcony doors and windows, the stair / lift core and the block partitions.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1497628
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "First-floor ICF and block partitions - the typical floor.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1532180
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Second floor",
+   "desc": "Second-floor ICF and block partitions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1500252
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Third floor, roof parapet and penthouse",
+   "desc": "Third-floor ICF and partitions, the 2-course ICF parapet round the roof terrace and the stair / lift penthouse.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2512912
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Complete block",
+   "desc": "The frame by others for coordination: 20 cm RC floor and roof slabs, balcony slabs with 10 cm RC parapets, the core stair, and the windows and doors fitted tight to the 25 mm ICF overfly.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 431668
+    }
+   ]
+  }
+ ]
+}
